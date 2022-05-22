@@ -1,0 +1,12 @@
+.cartblock {
+    display: flex;
+    align-items: center;
+    &__icons{
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    span{
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
